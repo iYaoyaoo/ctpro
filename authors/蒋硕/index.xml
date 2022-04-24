@@ -1,0 +1,19 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>蒋硕 - 作者 - Christian Pro</title>
+        <link>http://ctpro.iyaoyaoo.top/authors/%E8%92%8B%E7%A1%95/</link>
+        <description>蒋硕 - 作者 - Christian Pro</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 11 Apr 2022 16:19:57 &#43;0800</lastBuildDate><atom:link href="http://ctpro.iyaoyaoo.top/authors/%E8%92%8B%E7%A1%95/" rel="self" type="application/rss+xml" /><item>
+    <title>安装与使用</title>
+    <link>http://ctpro.iyaoyaoo.top/%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</link>
+    <pubDate>Mon, 11 Apr 2022 16:19:57 &#43;0800</pubDate><author>
+                    <name>蒋硕</name><uri>http://ctpro.iyaoyaoo.top/authors/%E8%92%8B%E7%A1%95</uri></author><guid>http://ctpro.iyaoyaoo.top/%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>B</title>
+    <link>http://ctpro.iyaoyaoo.top/b/</link>
+    <pubDate>Mon, 11 Apr 2022 13:47:25 &#43;0800</pubDate><author>
+                    <name>蒋硕</name><uri>http://ctpro.iyaoyaoo.top/authors/%E8%92%8B%E7%A1%95</uri></author><guid>http://ctpro.iyaoyaoo.top/b/</guid>
+    <description><![CDATA[import boto3 s3 = boto3.resource( &lsquo;s3&rsquo;, aws_access_key_id=&lsquo;430d1cf4bd5b4d0bb85ec3c479ed9669&rsquo;, aws_secret_access_key=&lsquo;fc7a7ae20e1445e78211e2dfd2706bb4eb20035170e34b40a12d4c3ce3c34bbf&rsquo;, region_name=&lsquo;us-west-2&rsquo;, endpoint_url=&lsquo;https://stdcdn.com&rsquo; ) its location is ~/.aws/credentials. At a minimum, the credentials file should specify the access key and secr]]></description>
+</item></channel>
+</rss>
